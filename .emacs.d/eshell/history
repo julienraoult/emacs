@@ -1,0 +1,11 @@
+ls
+cd c:
+cd Projects/ds/
+ls
+ls
+top
+ls
+ls
+cd C:\Users\dvddi\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64
+cd "C:\Users\dvddi\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64"
+texworks.bat
