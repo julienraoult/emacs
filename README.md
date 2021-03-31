@@ -1,6 +1,11 @@
 # emacs
 emacs configuration files
-* location folder : C:\Users\jraoult\AppData\Roaming
-** .emacs
-** .mailcap
+
+## Location 
+C:\Users\jraoult\AppData\Roaming
+
+## Content
+> .emacs.d
+> .emacs
+> .mailcap
 
